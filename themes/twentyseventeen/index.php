@@ -20,7 +20,7 @@ get_header(); ?>
 <div class="wrap">
 	<?php if ( is_home() && ! is_front_page() ) : ?>
 		<header class="page-header">
-			<h1 class="page-title"><?php single_post_title(); ?></h1>
+			<h1 class="page-title"><?php single_post_title(); ?>ACROSS<br>AFRICA</h1>
 		</header>
 	<?php else : ?>
 	<header class="page-header">
