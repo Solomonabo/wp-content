@@ -53,64 +53,16 @@
 		echo '</div><!-- .single-featured-image-header -->';
 	endif;
 	?>
-
+ 
 	<div class="site-content-contain">
 		<div id="content" class="site-content">
-			<p>BREAKING...</p>
+			<p>BREAKING NEWS<marquee>This is where we will get breaking news updates</marquee></p>
 			<h1>TOP STORIES</h1> 
+	        <a id="a" href='contact.html'>subscribe here</a>
+	        <h3>Read some of our latest country profiles here</h3>
+	        <<?php 
+	        get_search_form();
 
+?>
 
-
-			<!DOCTYPE html>
-<html>
-<head>
-	<title>Welcome home!</title>
-</head>
-
-<body>
-	<h1 id="main">Across Africa<h1>
-	<div id="regions">
-	<h2>subscribe here</h2>
-	
-	<ul>
-		<li>North Africa</li>
-		<li>East Africa</li>
-		<li>South Africa</li>
-		<li>Central Africa</li>
-		<li>West Africa</li>
-	</div>
-
-	<h1>Politics</h1>
-	  <ul>
-	  	<li>News and Analysis</li>
-	  	<li>Elections</li>
-	  	<li>Politician profile</li>
-	  	<li>Press Releases</li>
-	  </ul>
-    
-    <h1>Business</h1>
-      <ul>
-      	<li>Events</li>
-      	<li>Technology</li>
-      	<li>Business opportunities</li>
-      	<li>Banking</li>
-      </ul>
-
-    <h1>Arts and Culture</h1>
-      	<ul>
-        <li>Music and film</li>
-        <li>Books</li>
-        <li>Health</li>
-        <li>Society</li>
-       </ul>
-    
-      
-      <h1></h1>
-	
-	<h1></h1>
-	<img src="https://cdn4.vectorstock.com/i/1000x1000/79/58/african-map-vector-627958.jpg" alt="Aftican map" width="100px">
-
-
-	
-</body>
-
+			

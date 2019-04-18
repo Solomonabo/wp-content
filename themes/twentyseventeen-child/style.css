@@ -58,6 +58,7 @@ h2 {
 		font-weight: bold;
 		font-size: 35px
 	}
-	img {
-		align-items: right;
+	#a {
+		text-align: right;
+
 	}
