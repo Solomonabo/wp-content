@@ -56,13 +56,20 @@
  
 	<div class="site-content-contain">
 		<div id="content" class="site-content">
-			<p>BREAKING NEWS<marquee>This is where we will get breaking news updates</marquee></p>
-			<h1>TOP STORIES</h1> 
-	        <a id="a" href='contact.html'>subscribe here</a>
-	        <h3>Read some of our latest country profiles here</h3>
-	        <<?php 
+			<?php 
 	        get_search_form();
 
 ?>
+			<p>BREAKING NEWS<marquee>This is where we will get breaking news updates</marquee><p>
+			<h1>TOP STORIES</h1> 
+	        <a id="a" href='contact.html'>subscribe here</a>
+	        <hr/>	
+	        <div id="main">
+	        	<h1>MAIN STORIES</h1> 
+	        test test test
+	        </div>
+	        
+	        <h3>Read some of our latest country profiles here</h3>
+	        
 
 			

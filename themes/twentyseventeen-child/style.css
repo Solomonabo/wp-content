@@ -12,8 +12,12 @@
  Text Domain:  twenty-seventeen-child
 */
 
-.site-title, .site-branding-text {
-	background:;
+#main {
+	text-align: center;
+}
+
+.panel-content {
+	background:lightgray;
 
 }
 .navigation-top {
