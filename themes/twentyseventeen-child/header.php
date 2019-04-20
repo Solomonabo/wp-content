@@ -62,14 +62,21 @@
 ?>
 			<p>BREAKING NEWS<marquee>This is where we will get breaking news updates</marquee><p>
 			<h1>TOP STORIES</h1> 
-	        <a id="a" href='contact.html'>subscribe here</a>
+	        
 	        <hr/>	
 	        <div id="main">
-	        	<h1>MAIN STORIES</h1> 
-	        test test test
+	        	<h1>MAIN NEWS TAB</h1>
+
+	        	<a href=""> 
+	        </div>
+	        <div>
+	        	<a href="contact.html">contact us here</a>
+
 	        </div>
 	        
 	        <h3>Read some of our latest country profiles here</h3>
+	        <?php 
+	        get_search_form();
 	        
 
 			
