@@ -70,13 +70,14 @@
 	        	<a href=""> 
 	        </div>
 	        <div>
-	        	<a href="contact.html">contact us here</a>
+	        
+	        	<a href="pages/contact.html">contact us here</a>
 
 	        </div>
 	        
 	        <h3>Read some of our latest country profiles here</h3>
 	        <?php 
-	        get_search_form();
+	        
 	        
 
 			

@@ -16,3 +16,10 @@ global $twentyseventeencounter;
 
 
 </article><!-- #post-## -->
+            
+            <div>
+	        
+	        	<a href="contact.html">contact us here</a>
+
+	        </div>
+	        

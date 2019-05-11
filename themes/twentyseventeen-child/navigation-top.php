@@ -18,21 +18,33 @@
 		?>
 	</button>
 
-
 	<?php
-	wp_nav_menu(
+	wp_nav_menu( 
 		array(
 			'theme_location' => 'top',
 			'menu_id'        => 'top-menu',
 		)
-
 	);
 	?>
 
-
 	<?php if ( ( twentyseventeen_is_frontpage() || ( is_home() && is_front_page() ) ) && has_custom_header() ) : ?>
-		<a href="#content" class="menu-scroll-down"><p>what is here</p><?php echo twentyseventeen_get_svg( array( 'icon' => 'arrow-right' ) ); ?><span class="screen-reader-text"><?php _e( 'Scroll down to content', 'twentyseventeen' ); ?></span></a>
+		<a href="#content" class="menu-scroll-down"><?php echo twentyseventeen_get_svg( array( 'icon' => 'arrow-right' ) ); ?><span class="screen-reader-text"><?php _e( 'Scroll down to content', 'twentyseventeen' ); ?></span></a>
 	<?php endif; ?>
 </nav><!-- #site-navigation -->
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Navigation!</title>
+
+</head>
+
+<body>
+
+	<ul id="navigation">
+    <li class="a"><a href="/">Home</a></li>
+    <li class="b"><a href="theatre.php">Theatre</a></li>
+    <li class="c"><a href="programming.php">Programming</a></li> 
+</ul>
+
 
  
