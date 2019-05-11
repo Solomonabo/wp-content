@@ -60,7 +60,7 @@
 	        get_search_form();
 
 ?>
-			<p>BREAKING NEWS<marquee>This is where we will get breaking news updates</marquee><p>
+			<p>BREAKING NEWS<marquee>Incunmbent president Ramaphosa won South African 6th democartic elections</marquee><p>
 			<h1>TOP STORIES</h1> 
 	        
 	        <hr/>	
@@ -68,11 +68,6 @@
 	        	<h1>MAIN NEWS TAB</h1>
 
 	        	<a href=""> 
-	        </div>
-	        <div>
-	        
-	        	<a href="pages/contact.html">contact us here</a>
-
 	        </div>
 	        
 	        <h3>Read some of our latest country profiles here</h3>
