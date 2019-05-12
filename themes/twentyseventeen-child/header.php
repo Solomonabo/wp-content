@@ -60,7 +60,7 @@
 	        get_search_form();
 
 ?>
-			<p>BREAKING NEWS<marquee>Incunmbent president Ramaphosa won South African 6th democartic elections</marquee><p>
+			<p id ="breaking">BREAKING NEWS<marquee>Incunmbent president Ramaphosa won South African 6th democartic elections</marquee><p>
 			<h1>TOP STORIES</h1> 
 	        
 	        <hr/>	
