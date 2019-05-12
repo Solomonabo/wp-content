@@ -7,7 +7,6 @@ function my_theme_enqueue_styles() {
 ?>
 
 
-
 <?php
 
 //create_country_taxonomies when it fires
